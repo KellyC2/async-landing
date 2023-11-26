@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Creamos una landing page en el curso de asincronismos",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KellyC2/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KellyC2/async-landing/issues"
+  },
+  "homepage": "https://github.com/KellyC2/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
